@@ -1,5 +1,4 @@
 # It's starting for while loops.
-
 print("#"*5, " Factorial Calculator ", "#"*5, sep="")
 
 sum = 1
