@@ -30,4 +30,4 @@ while True:
         print("\n", enterance, sep="")
     else:
         print("\n", "Please select only numbers between 1-4!!!", sep="")
-        print("\n", enterance, sep="")
+        print("\n", enterance, sep="") 
